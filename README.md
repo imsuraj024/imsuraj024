@@ -1,25 +1,29 @@
 <div align="center">
 
-# SURAJ MISHRA
+<p><strong>SURAJ MISHRA</strong></p>
 
-### Building useful things with code, systems, and curiosity.
+<p><strong>Building useful things with code, systems, and curiosity.</strong></p>
 
-Mobile engineer focused on **Flutter, application security, cloud architecture, and AI-assisted development**.
+<p>Mobile engineer focused on <strong>Flutter, application security, cloud architecture, and AI-assisted development</strong>.</p>
 
-I like taking messy problems, finding the simplest useful system underneath them, and building it.
+<p>I like taking messy problems, finding the simplest useful system underneath them, and building it.</p>
 
-<br>
+<p><br></p>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://imsuraj024.github.io/)
+<p>
+<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mishra-024/)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imsuraj024@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/suraj-mishra-024/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:imsuraj024@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
 ---
 
-## WHAT I LIKE BUILDING
+<p><strong>WHAT I LIKE BUILDING</strong></p>
 
 - Mobile products that feel simple even when the underlying system isn't
 - Secure Flutter applications and reusable engineering foundations
@@ -27,43 +31,39 @@ I like taking messy problems, finding the simplest useful system underneath them
 - Developer tools that remove repetitive work
 - AI-assisted workflows for better engineering decisions
 
-## CURRENT TOOLBOX
+<p><strong>CURRENT TOOLBOX</strong></p>
 
 `Flutter` `Dart` `Android` `AWS` `Firebase` `Node.js` `Python` `PostgreSQL` `Next.js` `GitHub Actions`
 
-## THINGS I'M EXPLORING
+<p><strong>THINGS I'M EXPLORING</strong></p>
 
-**System design · Cloud architecture · AI agents · Developer tooling · Application security**
+<strong>System design · Cloud architecture · AI agents · Developer tooling · Application security</strong>
 
-## SELECTED PROJECTS
+<p><strong>SELECTED PROJECTS</strong></p>
 
-### [KRYVON](https://github.com/imsuraj024/kryvon)
-A security baseline for Flutter applications. Built around practical mobile security controls, threat modeling, secure storage, certificate pinning, and runtime protection.
+<p><strong><a href="https://github.com/imsuraj024/kryvon">KRYVON</a></strong><br>
+A security baseline for Flutter applications. Built around practical mobile security controls, threat modeling, secure storage, certificate pinning, and runtime protection.</p>
 
-### [SPIDEY](https://github.com/imsuraj024/spidey)
-An AI engineering companion for thinking through architecture, product decisions, and development workflows.
+<p><strong><a href="https://github.com/imsuraj024/spidey">SPIDEY</a></strong><br>
+An AI engineering companion for thinking through architecture, product decisions, and development workflows.</p>
 
-### [BEST PRACTICES](https://github.com/imsuraj024/best_practices)
-A living Flutter engineering reference for architecture, networking, state management, testing, performance, and development practices.
+<p><strong><a href="https://github.com/imsuraj024/best_practices">BEST PRACTICES</a></strong><br>
+A living Flutter engineering reference for architecture, networking, state management, testing, performance, and development practices.</p>
 
----
+<p><strong>A FEW SIGNALS</strong></p>
 
-## A FEW SIGNALS
+<strong>5+ years</strong> building software · <strong>10+ projects</strong> delivered · <strong>AWS Certified Solutions Architect – Associate</strong>
 
-**5+ years** building software · **10+ projects** delivered · **AWS Certified Solutions Architect – Associate**
-
----
-
-## LET'S TALK
+<p><strong>LET'S TALK</strong></p>
 
 Have an interesting engineering problem, want to collaborate, or just want to talk about building things?
 
-**[Portfolio](https://imsuraj024.github.io/) · [LinkedIn](https://www.linkedin.com/in/suraj-mishra-024/) · [Email](mailto:imsuraj024@gmail.com)**
+<p><strong><a href="https://imsuraj024.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/suraj-mishra-024/">LinkedIn</a> · <a href="mailto:imsuraj024@gmail.com">Email</a></strong></p>
 
 ---
 
 <div align="center">
 
-`SM / BUILD · LEARN · ITERATE`
+<code>SM / BUILD · LEARN · ITERATE</code>
 
 </div>
