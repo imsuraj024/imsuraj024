@@ -118,7 +118,7 @@ Interesting engineering problems · Collaboration · Building useful products
 
 <div align="center">
 
-### FIND ME
+**FIND ME**
 
 <a href="https://imsuraj024.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/suraj-mishra-024/">LinkedIn</a> · <a href="mailto:imsuraj024@gmail.com">Email</a>
 
