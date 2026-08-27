@@ -4,51 +4,68 @@
 
 **Mobile Engineer · Flutter · Cloud · Security · AI**
 
-I build mobile products and the systems behind them.
+Building mobile products that are simple on the surface and thoughtful underneath.
 
 <br>
 
-<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-48E1FF?style=for-the-badge&labelColor=071014&color=48E1FF&logo=googlechrome&logoColor=071014" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/suraj-mishra-024/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:imsuraj024@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/suraj-mishra-024/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:imsuraj024@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
----
+<br>
 
-### BUILDING
+I enjoy the space between **problem and product**: understanding what matters, designing the system underneath it, and making the result feel simple.
 
-I like taking a messy product problem, finding the simplest useful system underneath it, and building it well.
+My home base is **Flutter and Dart**. I also spend a lot of time around application security, cloud architecture and AI-assisted engineering.
 
-My main stack is **Flutter + Dart**, with a focus on **application security, cloud architecture, and AI-assisted engineering**.
+<br>
 
-### SELECTED BUILDS
+<div align="center"><b>SELECTED WORK</b></div>
 
-| | | |
-|:---:|:---:|:---:|
-| **KRYVON** | **SPIDEY** | **BEST PRACTICES** |
-| Mobile security baseline for Flutter | AI engineering companion | Flutter engineering reference |
-| [Explore →](https://github.com/imsuraj024/kryvon) | [Explore →](https://github.com/imsuraj024/spidey) | [Explore →](https://github.com/imsuraj024/best_practices) |
+<br>
 
-### WHAT I LIKE WORKING ON
+### KRYVON
 
-`MOBILE ARCHITECTURE` · `APPLICATION SECURITY` · `CLOUD SYSTEMS` · `DEVELOPER TOOLING` · `AI-ASSISTED DEVELOPMENT`
+**Mobile security, treated as a system.**
 
-### TOOLBOX
+A Flutter security baseline exploring threat modeling, secure storage, certificate pinning and runtime protection.
 
-**Mobile** · Flutter · Dart · Android · Java · BLoC · GetX  
-**Cloud & Data** · AWS · Firebase · PostgreSQL · SQLite · REST  
-**Engineering** · Python · Node.js · Next.js · CI/CD
+**Flutter · Dart · Security**  
+[Explore repository →](https://github.com/imsuraj024/kryvon)
 
-### A FEW SIGNALS
+### SPIDEY
 
-**5+ years** building software · **10+ projects** delivered · **AWS Solutions Architect – Associate**
+**An engineering companion.**
 
----
+An AI tool for architecture, product decisions and development workflows.
+
+**AI · Python · CLI**  
+[Explore repository →](https://github.com/imsuraj024/spidey)
+
+### BEST PRACTICES
+
+**A living engineering reference.**
+
+Practical Flutter patterns for architecture, networking, state management, testing and performance.
+
+**Flutter · Architecture · CI**  
+[Explore repository →](https://github.com/imsuraj024/best_practices)
+
+<br>
+
+<div align="center"><b>INTERESTED IN</b></div>
+
+<p align="center">Mobile Architecture · Application Security · Cloud Systems · Developer Tooling · AI-assisted Development</p>
+
+<br>
 
 <div align="center">
 
-**SEE MORE / GET IN TOUCH**
+<b>KEEP EXPLORING</b>
+
+<br><br>
 
 <a href="https://imsuraj024.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/suraj-mishra-024/">LinkedIn</a> · <a href="mailto:imsuraj024@gmail.com">Email</a>
 
