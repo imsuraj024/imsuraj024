@@ -1,69 +1,129 @@
 <div align="center">
 
-<p><strong>SURAJ MISHRA</strong></p>
-
-<p><strong>Building useful things with code, systems, and curiosity.</strong></p>
-
-<p>Mobile engineer focused on <strong>Flutter, application security, cloud architecture, and AI-assisted development</strong>.</p>
-
-<p>I like taking messy problems, finding the simplest useful system underneath them, and building it.</p>
-
-<p><br></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070A,100:071C24&text=SURAJ%20MISHRA&fontColor=EAFBFF&fontSize=42&fontAlignY=42&desc=Mobile%20Engineering%20%7C%20Cloud%20%7C%20Security%20%7C%20AI&descColor=66E8FF&descSize=16&descAlignY=62" width="100%" alt="Suraj Mishra">
 
 <p>
-<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-</p>
-
-<p>
+<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=071014" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/suraj-mishra-024/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:imsuraj024@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-<p><strong>WHAT I LIKE BUILDING</strong></p>
+**I build useful things.**
 
-- Mobile products that feel simple even when the underlying system isn't
-- Secure Flutter applications and reusable engineering foundations
-- Cloud-backed products and APIs
-- Developer tools that remove repetitive work
-- AI-assisted workflows for better engineering decisions
+I'm a mobile engineer who enjoys turning messy problems into simple, maintainable systems.
 
-<p><strong>CURRENT TOOLBOX</strong></p>
+My home base is **Flutter**, with a growing focus on **application security, cloud architecture, and AI-assisted engineering**.
 
-`Flutter` `Dart` `Android` `AWS` `Firebase` `Node.js` `Python` `PostgreSQL` `Next.js` `GitHub Actions`
+</td>
+<td width="45%" valign="top">
 
-<p><strong>THINGS I'M EXPLORING</strong></p>
+**CURRENT MODE**
 
-<strong>System design · Cloud architecture · AI agents · Developer tooling · Application security</strong>
+`BUILD` `LEARN` `ITERATE`
 
-<p><strong>SELECTED PROJECTS</strong></p>
+**FOCUS**
 
-<p><strong><a href="https://github.com/imsuraj024/kryvon">KRYVON</a></strong><br>
-A security baseline for Flutter applications. Built around practical mobile security controls, threat modeling, secure storage, certificate pinning, and runtime protection.</p>
+Mobile systems · Cloud · Security · AI tooling
 
-<p><strong><a href="https://github.com/imsuraj024/spidey">SPIDEY</a></strong><br>
-An AI engineering companion for thinking through architecture, product decisions, and development workflows.</p>
+</td>
+</tr>
+</table>
 
-<p><strong><a href="https://github.com/imsuraj024/best_practices">BEST PRACTICES</a></strong><br>
-A living Flutter engineering reference for architecture, networking, state management, testing, performance, and development practices.</p>
-
-<p><strong>A FEW SIGNALS</strong></p>
-
-<strong>5+ years</strong> building software · <strong>10+ projects</strong> delivered · <strong>AWS Certified Solutions Architect – Associate</strong>
-
-<p><strong>LET'S TALK</strong></p>
-
-Have an interesting engineering problem, want to collaborate, or just want to talk about building things?
-
-<p><strong><a href="https://imsuraj024.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/suraj-mishra-024/">LinkedIn</a> · <a href="mailto:imsuraj024@gmail.com">Email</a></strong></p>
-
----
+<br>
 
 <div align="center">
 
-<code>SM / BUILD · LEARN · ITERATE</code>
+**WHAT I'M INTO**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">Mobile products<br><sub>Simple interfaces, serious systems</sub></td>
+<td align="center">Secure engineering<br><sub>Practical controls, not theater</sub></td>
+<td align="center">Cloud architecture<br><sub>Design for scale and change</sub></td>
+<td align="center">Developer tooling<br><sub>Automate the boring parts</sub></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**SELECTED WORK**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[KRYVON](https://github.com/imsuraj024/kryvon)**
+
+Flutter security baseline covering threat modeling, secure storage, certificate pinning and runtime protection.
+
+`FLUTTER` `SECURITY`
+
+</td>
+<td width="33%" valign="top">
+
+**[SPIDEY](https://github.com/imsuraj024/spidey)**
+
+AI engineering companion for architecture, product decisions and development workflows.
+
+`AI` `PYTHON` `CLI`
+
+</td>
+<td width="33%" valign="top">
+
+**[BEST PRACTICES](https://github.com/imsuraj024/best_practices)**
+
+A living Flutter reference for architecture, networking, state, testing and performance.
+
+`FLUTTER` `ARCHITECTURE`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**A FEW SIGNALS**
+
+`5+ YEARS` &nbsp; · &nbsp; `10+ PROJECTS` &nbsp; · &nbsp; `AWS SOLUTIONS ARCHITECT – ASSOCIATE`
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**OPEN TO**
+
+Interesting engineering problems · Collaboration · Building useful products
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### FIND ME
+
+<a href="https://imsuraj024.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/suraj-mishra-024/">LinkedIn</a> · <a href="mailto:imsuraj024@gmail.com">Email</a>
+
+<br>
+
+<sub>SM / BUILD · LEARN · ITERATE</sub>
 
 </div>
