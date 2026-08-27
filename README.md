@@ -1,35 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070A,100:071C24&text=SURAJ%20MISHRA&fontColor=EAFBFF&fontSize=42&fontAlignY=42&desc=Mobile%20Engineering%20%7C%20Cloud%20%7C%20Security%20%7C%20AI&descColor=66E8FF&descSize=16&descAlignY=62" width="100%" alt="Suraj Mishra">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:05070A,100:0B1820&text=SURAJ%20MISHRA&fontColor=EAFBFF&fontSize=46&fontAlignY=45&desc=MOBILE%20ENGINEERING%20%C2%B7%20CLOUD%20%C2%B7%20SECURITY%20%C2%B7%20AI&descColor=48E1FF&descSize=15&descAlignY=66" width="100%" alt="Suraj Mishra">
 
-<p>
-<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=071014" alt="Portfolio"></a>
+<br>
+
+<a href="https://imsuraj024.github.io/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-48E1FF?style=for-the-badge&labelColor=071014&color=48E1FF&logo=googlechrome&logoColor=071014" alt="View portfolio"></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/suraj-mishra-024/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;
 <a href="mailto:imsuraj024@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 </div>
 
-<table align="center">
+<br>
+
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
-**I build useful things.**
+<div style="font-size:26px"><b>I build software<br>that earns its complexity.</b></div>
 
-I'm a mobile engineer who enjoys turning messy problems into simple, maintainable systems.
+<br>
 
-My home base is **Flutter**, with a growing focus on **application security, cloud architecture, and AI-assisted engineering**.
+I’m a mobile engineer focused on building products that are simple to use and deliberate underneath. Flutter is my home base, with a strong interest in application security, cloud architecture and AI-assisted engineering.
+
+I enjoy the part between **problem and product**: understanding what matters, designing the system, then making it real.
 
 </td>
-<td width="45%" valign="top">
+<td width="38%" valign="top">
 
-**CURRENT MODE**
+**NOW**
 
 `BUILD` `LEARN` `ITERATE`
 
-**FOCUS**
+**CORE**
 
-Mobile systems · Cloud · Security · AI tooling
+Flutter · Dart · AWS
+
+**EXPLORING**
+
+Security · Cloud · AI
 
 </td>
 </tr>
@@ -39,54 +49,49 @@ Mobile systems · Cloud · Security · AI tooling
 
 <div align="center">
 
-**WHAT I'M INTO**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=48E1FF" width="100%" alt="">
+
+<br><br>
+
+<b>SELECTED BUILDS</b>
+
+<br><br>
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center">Mobile products<br><sub>Simple interfaces, serious systems</sub></td>
-<td align="center">Secure engineering<br><sub>Practical controls, not theater</sub></td>
-<td align="center">Cloud architecture<br><sub>Design for scale and change</sub></td>
-<td align="center">Developer tooling<br><sub>Automate the boring parts</sub></td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-**SELECTED WORK**
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-**[KRYVON](https://github.com/imsuraj024/kryvon)**
+### KRYVON
 
-Flutter security baseline covering threat modeling, secure storage, certificate pinning and runtime protection.
+**Mobile security, treated as a system.**
 
-`FLUTTER` `SECURITY`
+A Flutter security baseline covering threat modeling, secure storage, certificate pinning and runtime protection.
+
+<a href="https://github.com/imsuraj024/kryvon">EXPLORE →</a>
 
 </td>
 <td width="33%" valign="top">
 
-**[SPIDEY](https://github.com/imsuraj024/spidey)**
+### SPIDEY
 
-AI engineering companion for architecture, product decisions and development workflows.
+**An engineering companion.**
 
-`AI` `PYTHON` `CLI`
+An AI tool for architecture, product decisions and development workflows.
+
+<a href="https://github.com/imsuraj024/spidey">EXPLORE →</a>
 
 </td>
 <td width="33%" valign="top">
 
-**[BEST PRACTICES](https://github.com/imsuraj024/best_practices)**
+### BEST PRACTICES
 
-A living Flutter reference for architecture, networking, state, testing and performance.
+**A living engineering reference.**
 
-`FLUTTER` `ARCHITECTURE`
+Flutter patterns for architecture, networking, state management, testing and performance.
+
+<a href="https://github.com/imsuraj024/best_practices">EXPLORE →</a>
 
 </td>
 </tr>
@@ -94,36 +99,53 @@ A living Flutter reference for architecture, networking, state, testing and perf
 
 <br>
 
-<div align="center">
-
-**A FEW SIGNALS**
-
-`5+ YEARS` &nbsp; · &nbsp; `10+ PROJECTS` &nbsp; · &nbsp; `AWS SOLUTIONS ARCHITECT – ASSOCIATE`
-
-</div>
-
-<br>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-**OPEN TO**
+<b>ENGINEERING STACK</b>
 
-Interesting engineering problems · Collaboration · Building useful products
+<br><br>
+
+`FLUTTER` `DART` `ANDROID` `JAVA`  
+`AWS` `FIREBASE` `POSTGRESQL` `SQLITE`  
+`BLoC` `GETX` `REST` `PYTHON` `NODE.JS` `NEXT.JS`
+
+</td>
+<td width="50%" valign="top">
+
+<b>ENGINEERING SIGNALS</b>
+
+<br><br>
+
+**5+** years building software  
+**10+** projects delivered  
+**AWS** Solutions Architect – Associate
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-**FIND ME**
-
-<a href="https://imsuraj024.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/suraj-mishra-024/">LinkedIn</a> · <a href="mailto:imsuraj024@gmail.com">Email</a>
-
 <br>
 
-<sub>SM / BUILD · LEARN · ITERATE</sub>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=48E1FF" width="100%" alt="">
+
+<br><br>
+
+<b>LET'S BUILD SOMETHING USEFUL.</b>
+
+<br><br>
+
+<a href="https://imsuraj024.github.io/">PORTFOLIO</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suraj-mishra-024/">LINKEDIN</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:imsuraj024@gmail.com">EMAIL</a>
+
+<br><br>
+
+<sub>SM · BUILD WITH INTENT</sub>
 
 </div>
